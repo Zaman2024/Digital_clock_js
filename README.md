@@ -1,2 +1,2 @@
-# Digital_clock_js-02
+# Digital_clock_js
 # javaScript basic project-04
